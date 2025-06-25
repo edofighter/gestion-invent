@@ -27,6 +27,6 @@ Mensajes claros de confirmación y errores para mejorar la experiencia de usuari
 ⚙️ Requisitos técnicos
 Python 3.7 o superior
 
-Bibliotecas: matplotlib (para gráficos)
+
 
 
